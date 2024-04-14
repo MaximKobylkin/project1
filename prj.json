@@ -13,7 +13,8 @@
             "classes":"3",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"10:00, 15:00, 18:30"
+            "time":"10:00, 15:00, 18:30",
+            "img":"1.svg"
         },
         {
             "id":2,
@@ -28,7 +29,8 @@
             "classes":"1",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"12:00, 16:30, 19:00"
+            "time":"12:00, 16:30, 19:00",
+            "img":"1.svg"
         },
         {
             "id":3,
@@ -43,7 +45,8 @@
             "classes":"3",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"11:30, 16:30, 18:30"
+            "time":"11:30, 16:30, 18:30",
+            "img":"1.svg"
         },
         {
             "id":4,
@@ -58,7 +61,8 @@
             "classes":"2",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"12:30, 17:30, 18:30"
+            "time":"12:30, 17:30, 18:30",
+            "img":"1.svg"
         },
         {
             "id":5,
@@ -73,7 +77,8 @@
             "classes":"1",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"11:30, 16:30, 18:30"
+            "time":"11:30, 16:30, 18:30",
+            "img":"1.svg"
         },
         {
             "id":6,
@@ -88,7 +93,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"13:30, 18:00"
+            "time":"13:30, 18:00",
+            "img":"1.svg"
         },
         {
             "id":7,
@@ -103,7 +109,8 @@
             "classes":"1",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"10:30, 14:00, 17:00"
+            "time":"10:30, 14:00, 17:00",
+            "img":"1.svg"
         },
         {
             "id":8,
@@ -118,7 +125,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"12:00, 15:30, 19:00"
+            "time":"12:00, 15:30, 19:00",
+            "img":"1.svg"
         },
         {
             "id":9,
@@ -133,7 +141,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"10:30, 14:00, 17:00"
+            "time":"10:30, 14:00, 17:00",
+            "img":"1.svg"
         },
         {
             "id":10,
@@ -148,7 +157,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Понедельник, Среда, Пятница, Суббота",
-            "time":"13:00, 16:30"
+            "time":"13:00, 16:30",
+            "img":"1.svg"
         },
         {
             "id":11,
@@ -163,7 +173,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Суббота, Воскресенье",
-            "time":"10:30, 14:00, 17:00"
+            "time":"10:30, 14:00, 17:00",
+            "img":"2.svg"
         },
         {
             "id":12,
@@ -178,7 +189,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Суббота, Воскресенье",
-            "time":"12:00, 18:30"
+            "time":"12:00, 18:30",
+            "img":"2.svg"
         },
         {
             "id":13,
@@ -193,7 +205,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Суббота, Воскресенье",
-            "time":"10:30, 14:00, 17:00"
+            "time":"10:30, 14:00, 17:00",
+            "img":"2.svg"
         },
         {
             "id":14,
@@ -208,7 +221,8 @@
             "classes":"only individual",
             "individual lessons":"yes",
             "days":"Суббота, Воскресенье",
-            "time":"12:00, 18:30"
+            "time":"12:00, 18:30",
+            "img":"2.svg"
         },
         {
  "id":15,
@@ -223,9 +237,9 @@
 "classes":"1",
 "individual lessons":"yes",
 "days":"Вторник, Суббота, Воскресенье",
-"time":"14:30, 18:30"
+"time":"14:30, 18:30",
+"img":"2.svg"
 },
-
         {
  "id":16,
 "instrument":"ukulele",
@@ -239,7 +253,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Суббота, Воскресенье",
-"time":"16:30"
+"time":"16:30",
+"img":"2.svg"
 },
 {
 "id":17,
@@ -254,7 +269,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Вторник, Четверг, Суббота",
-"time":"10:00, 14:30, 18:30"
+"time":"10:00, 14:30, 18:30",
+"img":"3.svg"
 },
 {
 "id":18,
@@ -269,7 +285,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Вторник, Четверг, Суббота",
-"time":"12:00, 16:30"
+"time":"12:00, 16:30",
+"img":"3.svg"
 },
 {
 "id":19,
@@ -284,7 +301,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Вторник, Четверг, Суббота",
-"time":"9:00, 13:30, 17:30"
+"time":"9:00, 13:30, 17:30",
+"img":"3.svg"
 },
 {
 "id":20,
@@ -299,7 +317,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Вторник, Четверг, Суббота",
-"time":"15:30, 19:00"
+"time":"15:30, 19:00",
+"img":"3.svg"
 },
 {
 "id":21,
@@ -314,7 +333,8 @@
 "classes":"2",
 "individual lessons":"no",
 "days":"Четверг, Суббота, Воскресенье",
-"time":"11:30, 15:30, 19:30"
+"time":"11:30, 15:30, 19:30",
+"img":"4.svg"
 },
 {
 "id":22,
@@ -329,7 +349,8 @@
 "classes":"2",
 "individual lessons":"no",
 "days":"Четверг, Суббота, Воскресенье",
-"time":"14:30, 17:30"
+"time":"14:30, 17:30",
+"img":"4.svg"
 },
 {
 "id":23,
@@ -344,7 +365,8 @@
 "classes":"1",
 "individual lessons":"yes",
 "days":"Четверг, Суббота, Воскресенье",
-"time":"11:30, 15:30, 19:30"
+"time":"11:30, 15:30, 19:30",
+"img":"4.svg"
 },
 {
 "id":24,
@@ -359,7 +381,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Суббота, Воскресенье",
-"time":"10:00, 13:30"
+"time":"10:00, 13:30",
+"img":"4.svg"
 },
 {
 "id":25,
@@ -374,7 +397,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Четверг, Суббота, Воскресенье",
-"time":"по договоренности"
+"time":"по договоренности",
+"img":"4.svg"
 },
 {
 "id":26,
@@ -389,7 +413,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days":"Четверг, Суббота, Воскресенье",
-"time":"по договоренности"
+"time":"по договоренности",
+"img":"4.svg"
 },
 {
 "id":27,
@@ -404,7 +429,8 @@
 "classes":"1",
 "individual lessons":"yes",
 "days": "Суббота, Воскресенье",
-"time":"13:00, 16:30"
+"time":"13:00, 16:30",
+"img":"5.svg"
 },
 {
 "id":28,
@@ -419,7 +445,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days": "Суббота, Воскресенье",
-"time":"15:00, 19:30"
+"time":"15:00, 19:30",
+"img":"5.svg"
 },
 {
 "id":29,
@@ -434,7 +461,8 @@
 "classes":"1",
 "individual lessons":"yes",
 "days": "Четверг, Суббота, Воскресенье",
-"time":"11:00, 15:30"
+"time":"11:00, 15:30",
+"img":"6.svg"
 },
 {
 "id":30,
@@ -449,7 +477,8 @@
 "classes":"only individual",
 "individual lessons":"yes",
 "days": "Четверг, Суббота, Воскресенье",
-"time":"по договоренности"
+"time":"по договоренности",
+"img":"6.svg"
 }
     ]
 }
